@@ -1,0 +1,10 @@
+D:\dev\Sticky\Sticky\bin\Debug\Sticky.exe.config
+D:\dev\Sticky\Sticky\bin\Debug\Sticky.exe
+D:\dev\Sticky\Sticky\bin\Debug\Sticky.pdb
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.csprojResolveAssemblyReference.cache
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.Note.resources
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.Properties.Resources.resources
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.csproj.GenerateResource.cache
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.csproj.CoreCompileInputs.cache
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.exe
+D:\dev\Sticky\Sticky\obj\Debug\Sticky.pdb
